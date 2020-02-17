@@ -1,10 +1,13 @@
 <?php
 
  class Clientes {
+     //variavel para propriedades
     public $id;
     public $sobrenome;
     private $rg;
     private $cpf; 
-    public $contas; 
+    private $contas; 
+    //função para metódos
+    public function criarContas () {
 }
 ?>

@@ -1,5 +1,5 @@
 <?php
-require "Contas.php";
+require('Contas.php');
 
 class CCorrente extends Contas {
     public $chequeEspecial;

@@ -5,7 +5,7 @@ abstract class Contas {
     }
     public function sacar () {
     }
-    public function consultar () {
+    public function consultarSaldo () {
     }
 }
 
